@@ -1,10 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-gem "jekyll-toc"
+
 gem "jekyll", "~> 3.10.0"
 gem "jekyll-toc"
-gem "github-pages", group: :jekyll_plugins
+
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
