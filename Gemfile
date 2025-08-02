@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 gem "jekyll", "~> 3.10.0"
-gem "jekyll-toc"
+
 
 
 # Core plugins that directly affect site building
