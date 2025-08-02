@@ -3,7 +3,7 @@ name: Build Jekyll Site
 on:
   push:
     branches:
-      - main  # Change to your default branch if it's not main
+      - main  # Change if your default branch is different
 
 jobs:
   build:
